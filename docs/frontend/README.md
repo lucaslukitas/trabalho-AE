@@ -15,6 +15,7 @@ Esta documentação foi escrita a partir do backend existente em `api/` (API Pla
 | 5 | [Acessibilidade](05-acessibilidade.md) | Normas, recursos obrigatórios, padrões por componente, checklist e testes |
 | 6 | [Arquitetura e padrões de implementação](06-arquitetura.md) | Estrutura de pastas, tipos, React Query, design system, testes |
 | 7 | [Lacunas do backend e roadmap](07-lacunas-e-roadmap.md) | O que falta na API para cumprir os objetivos e ordem sugerida de entrega |
+| 8 | [Plano de implementação](08-plano-de-implementacao.md) | Comparação `pwa/` × documentação: o que está conforme, errado ou faltando, e as alterações por fase |
 
 ## Resumo em uma página
 
